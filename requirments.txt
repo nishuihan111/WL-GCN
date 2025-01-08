@@ -1,0 +1,9 @@
+### Required environment for runing WL-GCN
+python 3.9.10
+numpy 1.26.4
+pandas 2.2.3
+scikit-learn 1.0.2
+torch 1.12.0
+torchvision 0.13.0
+torchaudio 0.12.0
+tqdm 4.64.0
